@@ -19,4 +19,4 @@ A more elegant solution would be to use [named lists](https://pypi.org/project/n
 ## The idea
 The idea i used is pretty basic: from the example in the description of the problem i noticed that the score of the considered project dropped when considering the SLA Penalty.  
 Therefore i ordered the projects in descending order of base penalty and bought the packages for each project in this order. In order to avoid to allocate too much packages to a single project i set a limit based on the total quantity of resources at disposal.  
-The idea is super easy and in fact  the solution is just 106 lines long, where most of them are for the ```read``` and ```write``` function.
+The idea is super easy and in fact  the solution is just 106 lines long, where most of them are for the ```read``` and ```write``` functions.
