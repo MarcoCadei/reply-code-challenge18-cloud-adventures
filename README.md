@@ -13,7 +13,7 @@ I used Python 3 to solve the problem and numpy to help me with some vector calcu
 ### 8th place! (out of 1207 teams)
 I tried to simulate the challenge, so i gave myself just 4 hours of time: if i had partecipated i would have arrived 8th.  
 I'm quite happy of this result, but as a side effect the code is ugly. It should be refactored in order to be more comprehensible.
-In particular the coice of using tuples makes the code hard to read.  
+In particular the choice of using tuples makes the code hard to read.  
 A more elegant solution would be to use [named lists](https://pypi.org/project/namedlist/).
 
 ## The idea
